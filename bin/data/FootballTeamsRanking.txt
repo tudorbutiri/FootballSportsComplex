@@ -1,0 +1,441 @@
+Team1 -  Victories Number:4
+	 Jucatori: 
+Ion Ionescu : 
+Age:11
+Scored Goals:0
+Position:offensive
+
+Ion Popescianu : 
+Age:10
+Scored Goals:0
+Position:goalkeeper
+
+Marinel Popescu : 
+Age:23
+Scored Goals:3
+Position:goalkeeper
+
+Albert Stan : 
+Age:11
+Scored Goals:0
+Position:midfielder
+
+Ion Popoviciu : 
+Age:9
+Scored Goals:0
+Position:goalkeeper
+
+Alex Matei : 
+Age:21
+Scored Goals:4
+Position:goalkeeper
+
+
+Team7 -  Victories Number:3
+	 Jucatori: 
+Florin Mag : 
+Age:34
+Scored Goals:1
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:17
+Scored Goals:0
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:18
+Scored Goals:0
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:19
+Scored Goals:0
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:20
+Scored Goals:0
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:21
+Scored Goals:0
+Position:offensive
+
+Mihai  Marinescu  : 
+Age:22
+Scored Goals:0
+Position:offensive
+
+
+Team10 -  Victories Number:2
+	 Jucatori: 
+Vasile Brusturean : 
+Age:34
+Scored Goals:0
+Position:offensive
+
+Gigi  Popa  : 
+Age:20
+Scored Goals:0
+Position:midfielder
+
+Gigi  Popa  : 
+Age:21
+Scored Goals:1
+Position:midfielder
+
+Gigi  Popa  : 
+Age:22
+Scored Goals:2
+Position:midfielder
+
+Gigi  Popa  : 
+Age:23
+Scored Goals:3
+Position:midfielder
+
+Gigi  Popa  : 
+Age:24
+Scored Goals:4
+Position:midfielder
+
+Gigi  Popa  : 
+Age:25
+Scored Goals:5
+Position:midfielder
+
+
+Team3 -  Victories Number:1
+	 Jucatori: 
+Vasilica  Geaorgescu  : 
+Age:15
+Scored Goals:0
+Position:offensive
+
+Vasile Roman : 
+Age:23
+Scored Goals:0
+Position:defender
+
+Alin Vargatul : 
+Age:43
+Scored Goals:5
+Position:offensive
+
+Radu Anghel : 
+Age:23
+Scored Goals:0
+Position:defender
+
+Mircea Anghel : 
+Age:25
+Scored Goals:0
+Position:midfielder
+
+Petru Ionescu : 
+Age:34
+Scored Goals:2
+Position:midfielder
+
+Vasile Manole : 
+Age:25
+Scored Goals:3
+Position:goalkeeper
+
+
+Team2 -  Victories Number:1
+	 Jucatori: 
+Dorinel Munteanu : 
+Age:23
+Scored Goals:3
+Position:offensive
+
+Gica Popescu : 
+Age:35
+Scored Goals:5
+Position:defender
+
+Gica Hagi : 
+Age:37
+Scored Goals:2
+Position:midfielder
+
+Ivan Turbinca : 
+Age:32
+Scored Goals:0
+Position:goalkeeper
+
+Andrei Marin : 
+Age:21
+Scored Goals:0
+Position:defender
+
+Ion  Creanga : 
+Age:34
+Scored Goals:3
+Position:offensive
+
+Anton Pan : 
+Age:23
+Scored Goals:1
+Position:offensive
+
+
+Team12 -  Victories Number:0
+	 Jucatori: 
+Ioan Marian : 
+Age:43
+Scored Goals:1
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:30
+Scored Goals:0
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:31
+Scored Goals:1
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:32
+Scored Goals:2
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:33
+Scored Goals:3
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:34
+Scored Goals:4
+Position:goalkeeper
+
+Dorel  Popa  : 
+Age:35
+Scored Goals:5
+Position:goalkeeper
+
+
+Team11 -  Victories Number:0
+	 Jucatori: 
+Floricel Petrescu : 
+Age:21
+Scored Goals:0
+Position:midfielder
+
+Manu  Costache  : 
+Age:30
+Scored Goals:0
+Position:midfielder
+
+Manu  Costache  : 
+Age:31
+Scored Goals:1
+Position:midfielder
+
+Manu  Costache  : 
+Age:32
+Scored Goals:2
+Position:midfielder
+
+Manu  Costache  : 
+Age:33
+Scored Goals:3
+Position:midfielder
+
+Manu  Costache  : 
+Age:34
+Scored Goals:4
+Position:midfielder
+
+Manu  Costache  : 
+Age:35
+Scored Goals:5
+Position:midfielder
+
+
+Team9 -  Victories Number:0
+	 Jucatori: 
+Marian Ioan : 
+Age:25
+Scored Goals:0
+Position:offensive
+
+Ion  Morar  : 
+Age:20
+Scored Goals:0
+Position:defender
+
+Ion  Morar  : 
+Age:21
+Scored Goals:1
+Position:defender
+
+Ion  Morar  : 
+Age:22
+Scored Goals:2
+Position:defender
+
+Ion  Morar  : 
+Age:23
+Scored Goals:3
+Position:defender
+
+Ion  Morar  : 
+Age:24
+Scored Goals:4
+Position:defender
+
+Ion  Morar  : 
+Age:25
+Scored Goals:5
+Position:defender
+
+
+Team8 -  Victories Number:0
+	 Jucatori: 
+Sabin Cernea : 
+Age:54
+Scored Goals:0
+Position:defender
+
+Dan  Morar  : 
+Age:17
+Scored Goals:0
+Position:offensive
+
+Dan  Morar  : 
+Age:18
+Scored Goals:1
+Position:offensive
+
+Dan  Morar  : 
+Age:19
+Scored Goals:2
+Position:offensive
+
+Dan  Morar  : 
+Age:20
+Scored Goals:3
+Position:offensive
+
+Dan  Morar  : 
+Age:21
+Scored Goals:4
+Position:offensive
+
+Dan  Morar  : 
+Age:22
+Scored Goals:5
+Position:offensive
+
+
+Team6 -  Victories Number:0
+	 Jucatori: 
+Flaviu Centea : 
+Age:34
+Scored Goals:0
+Position:defender
+
+Anghel  Popescu  : 
+Age:20
+Scored Goals:0
+Position:offensive
+
+Anghel  Popescu  : 
+Age:21
+Scored Goals:0
+Position:offensive
+
+Anghel  Popescu  : 
+Age:22
+Scored Goals:0
+Position:offensive
+
+Anghel  Popescu  : 
+Age:23
+Scored Goals:0
+Position:offensive
+
+Anghel  Popescu  : 
+Age:24
+Scored Goals:0
+Position:offensive
+
+Anghel  Popescu  : 
+Age:25
+Scored Goals:0
+Position:offensive
+
+
+Team5 -  Victories Number:0
+	 Jucatori: 
+Alin Cazan : 
+Age:33
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:20
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:21
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:22
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:23
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:24
+Scored Goals:0
+Position:midfielder
+
+Vasilica  Georgescu  : 
+Age:25
+Scored Goals:0
+Position:midfielder
+
+
+Team4 -  Victories Number:0
+	 Jucatori: 
+Vasilica Georgescu : 
+Age:25
+Scored Goals:0
+Position:midfielder
+
+Vasilica Georgescu : 
+Age:20
+Scored Goals:0
+Position:midfielder
+
+Ion Vargatul : 
+Age:43
+Scored Goals:3
+Position:defender
+
+Dorel  Mirel  : 
+Age:43
+Scored Goals:3
+Position:goalkeeper
+
+Ion Ristei : 
+Age:32
+Scored Goals:2
+Position:defender
+
+
